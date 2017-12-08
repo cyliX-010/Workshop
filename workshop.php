@@ -2,7 +2,7 @@
     <html>
     <head></head>
     <body>
-    <div><img src='workshop.png'></div>
+    <img src='workshop.png'>
     
     </body>
  </html>
